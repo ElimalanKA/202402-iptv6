@@ -24,7 +24,7 @@ CETV-2 空中课堂,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909
 CETV-3 教育服务,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV-4 职业教育,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001308/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#北京BTV
+#北京BTV,#genre#
 北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京财经,http://iptv.8t.cx:8180/udp/239.3.1.116:8000
 北京生活,http://iptv.8t.cx:8180/udp/239.3.1.117:8000
