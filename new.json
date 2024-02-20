@@ -3322,7 +3322,7 @@
     {
       "name": "IPV6",
       "type": 0,
-      "url": "./lib/tv/ipv6.m3u",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ElimalanKA/202402-iptv6/main/iptv-bj.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
