@@ -1,0 +1,17 @@
+测试频道
+测试频道1,http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=testch1
+测试频道2,http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=testch2
+测试频道3,http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=testch3
+测试频道4,http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=testch4
+测试频道5,http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=testch5
+体育直播
+体育直播-1,http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive01
+体育直播-2,http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive02
+体育直播-3,http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive03
+体育直播-4,http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive04
+体育直播-5,http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive05
+体育直播-6,http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive06
+体育直播-7,http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive07
+体育直播-8,http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive08
+体育直播-9,http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive09
+体育直播-10,http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive10
