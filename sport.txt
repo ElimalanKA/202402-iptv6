@@ -15,3 +15,199 @@
 体育直播-8,http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive08
 体育直播-9,http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive09
 体育直播-10,http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive10
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 xui-id="1487" tvg-id="" tvg-name="[gudou] 劲爆体育" tvg-logo="" group-title="香港频道",[gudou] 劲爆体育
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEftjtKYhIOL1iLIzyIoc958/m3u8
+#EXTINF:-1 xui-id="1488" tvg-id="" tvg-name="[gudou] 广东导视" tvg-logo="" group-title="香港频道",[gudou] 广东导视
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEaP0MMNYIgbtQsLzYEc86Bg/m3u8
+#EXTINF:-1 xui-id="1489" tvg-id="" tvg-name="[gudou] 翡翠台" tvg-logo="" group-title="香港频道",[gudou] 翡翠台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEW4aVUCJn8ujZSiqSNMiuLM/m3u8
+#EXTINF:-1 xui-id="1490" tvg-id="" tvg-name="[gudou] 魅力足球" tvg-logo="" group-title="香港频道",[gudou] 魅力足球
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEdcIzksFLhneIYiyqE3x6fU/m3u8
+#EXTINF:-1 xui-id="1491" tvg-id="" tvg-name="[TVB] 28 AI 智慧賽馬" tvg-logo="" group-title="香港频道",[TVB] 28 AI 智慧賽馬
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASET6TmeV1pM0skU-GevXkkgE/m3u8
+#EXTINF:-1 xui-id="1492" tvg-id="" tvg-name="[TVB] Animax" tvg-logo="" group-title="香港频道",[TVB] Animax
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEQVKTyNn0W7N-nx8sh1o-Io/m3u8
+#EXTINF:-1 xui-id="1493" tvg-id="" tvg-name="[TVB] Arirang TV" tvg-logo="" group-title="香港频道",[TVB] Arirang TV
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEWs_7cKEWEJv_RpG65lnXoY/m3u8
+#EXTINF:-1 xui-id="1494" tvg-id="" tvg-name="[TVB] AXN" tvg-logo="" group-title="香港频道",[TVB] AXN
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASETazfC3J8LXBsXU-XMJqDGU/m3u8
+#EXTINF:-1 xui-id="1495" tvg-id="" tvg-name="[TVB] DW" tvg-logo="" group-title="香港频道",[TVB] DW
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEZfck2KJhN-XirHs2K9aZPw/m3u8
+#EXTINF:-1 xui-id="1496" tvg-id="" tvg-name="[TVB] FashionBox" tvg-logo="" group-title="香港频道",[TVB] FashionBox
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASES0Oe8-LL1jR3NdIzyIxkyk/m3u8
+#EXTINF:-1 xui-id="1497" tvg-id="" tvg-name="[TVB] France 24" tvg-logo="" group-title="香港频道",[TVB] France 24
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEe9K5crqSwVNjZ2g5FQNwKU/m3u8
+#EXTINF:-1 xui-id="1498" tvg-id="" tvg-name="[TVB] Global Trekker" tvg-logo="" group-title="香港频道",[TVB] Global Trekker
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEbTSUhei55mXRydk8jgl2i8/m3u8
+#EXTINF:-1 xui-id="1499" tvg-id="" tvg-name="[TVB] KIX" tvg-logo="" group-title="香港频道",[TVB] KIX
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEUnpSuHDxyqt-oW01RWiC_Y/m3u8
+#EXTINF:-1 xui-id="1500" tvg-id="" tvg-name="[TVB] Love Nature 4K" tvg-logo="" group-title="香港频道",[TVB] Love Nature 4K
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEfR8-EwcP1RhPSQVizzafLw/m3u8
+#EXTINF:-1 xui-id="1501" tvg-id="" tvg-name="[TVB] Love Nature HD" tvg-logo="" group-title="香港频道",[TVB] Love Nature HD
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEfgOO7ZrAfZVKr-eHHCf9_o/m3u8
+#EXTINF:-1 xui-id="1502" tvg-id="" tvg-name="[TVB] Mezzo Live HD" tvg-logo="" group-title="香港频道",[TVB] Mezzo Live HD
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEaYlivqC4eSy-j1z7Mq_phI/m3u8
+#EXTINF:-1 xui-id="1503" tvg-id="" tvg-name="[TVB] myTV SUPER 18台" tvg-logo="" group-title="香港频道",[TVB] myTV SUPER 18台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASESAGV-IAqBYA5SvhM4wDLM4/m3u8
+#EXTINF:-1 xui-id="1504" tvg-id="" tvg-name="[TVB] myTV SUPER FREE" tvg-logo="" group-title="香港频道",[TVB] myTV SUPER FREE
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEbFiscJfpjKKtwy7CPUDIds/m3u8
+#EXTINF:-1 xui-id="1505" tvg-id="" tvg-name="[TVB] myTV SUPER 直播足球3台" tvg-logo="" group-title="香港频道",[TVB] myTV SUPER 直播足球3台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEUYhcnyuvVgcpjs1k3Af0ZQ/m3u8
+#EXTINF:-1 xui-id="1506" tvg-id="" tvg-name="[TVB] myTV SUPER 直播足球4台" tvg-logo="" group-title="香港频道",[TVB] myTV SUPER 直播足球4台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEXHLz7MWjM8iUkxG2Z5Nq2w/m3u8
+#EXTINF:-1 xui-id="1507" tvg-id="" tvg-name="[TVB] myTV SUPER 直播足球5台" tvg-logo="" group-title="香港频道",[TVB] myTV SUPER 直播足球5台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEZUeBpSizfWlRK3vxLmOVUA/m3u8
+#EXTINF:-1 xui-id="1508" tvg-id="" tvg-name="[TVB] myTV SUPER 直播足球6台" tvg-logo="" group-title="香港频道",[TVB] myTV SUPER 直播足球6台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASETD7ek0WfTiZ2UQKTJGdBR0/m3u8
+#EXTINF:-1 xui-id="1509" tvg-id="" tvg-name="[TVB] NHK World-Japan" tvg-logo="" group-title="香港频道",[TVB] NHK World-Japan
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEczqLUP77DDleNa9Kmiwik8/m3u8
+#EXTINF:-1 xui-id="1510" tvg-id="" tvg-name="[TVB] Nick Jr." tvg-logo="" group-title="香港频道",[TVB] Nick Jr.
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEaHhjPWRwpBer7wtBf5CWZQ/m3u8
+#EXTINF:-1 xui-id="1511" tvg-id="" tvg-name="[TVB] Nickelodeon" tvg-logo="" group-title="香港频道",[TVB] Nickelodeon
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEfCBmcqmY0VGurMufDDLFeY/m3u8
+#EXTINF:-1 xui-id="1512" tvg-id="" tvg-name="[TVB] PopC" tvg-logo="" group-title="香港频道",[TVB] PopC
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASESWHT5uvot5iFo0L3eT_AoQ/m3u8
+#EXTINF:-1 xui-id="1513" tvg-id="" tvg-name="[TVB] ROCK Action" tvg-logo="" group-title="香港频道",[TVB] ROCK Action
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEaaBI4990dvRb4tUBAwc7Bo/m3u8
+#EXTINF:-1 xui-id="1514" tvg-id="" tvg-name="[TVB] ROCK 綜藝娛樂" tvg-logo="" group-title="香港频道",[TVB] ROCK 綜藝娛樂
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEd0rjr2n_nZ5wBFl0R9JYm4/m3u8
+#EXTINF:-1 xui-id="1515" tvg-id="" tvg-name="[TVB] SUPER Kids Channel" tvg-logo="" group-title="香港频道",[TVB] SUPER Kids Channel
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEdm2lQ02J_Qc9_htvMopY-U/m3u8
+#EXTINF:-1 xui-id="1516" tvg-id="" tvg-name="[TVB] Thrill" tvg-logo="" group-title="香港频道",[TVB] Thrill
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEbm82gYodO03tN6Qf-XQt7w/m3u8
+#EXTINF:-1 xui-id="1517" tvg-id="" tvg-name="[TVB] TVB Plus" tvg-logo="" group-title="香港频道",[TVB] TVB Plus
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEYqQFe6OEFOKL8c82w9XOkk/m3u8
+#EXTINF:-1 xui-id="1518" tvg-id="" tvg-name="[TVB] tvN" tvg-logo="" group-title="香港频道",[TVB] tvN
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEbtr_22UFxZbzlZVgXpbUJU/m3u8
+#EXTINF:-1 xui-id="1519" tvg-id="" tvg-name="[TVB] ZooMoo" tvg-logo="" group-title="香港频道",[TVB] ZooMoo
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEVoDwUNdRGv52ZLcinhhgEI/m3u8
+#EXTINF:-1 xui-id="1520" tvg-id="" tvg-name="[TVB] 亞洲劇台" tvg-logo="" group-title="香港频道",[TVB] 亞洲劇台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEf2rBpnu7B8TFmbrlxgyRzc/m3u8
+#EXTINF:-1 xui-id="1521" tvg-id="" tvg-name="[TVB] 亞洲新聞台" tvg-logo="" group-title="香港频道",[TVB] 亞洲新聞台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEYE4FldDcUH3nZ9pifiaYcc/m3u8
+#EXTINF:-1 xui-id="1522" tvg-id="" tvg-name="[TVB] 創世電視" tvg-logo="" group-title="香港频道",[TVB] 創世電視
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEf-NcoZulVtr8MUqGDWxP0M/m3u8
+#EXTINF:-1 xui-id="1523" tvg-id="" tvg-name="[TVB] 千禧經典台" tvg-logo="" group-title="香港频道",[TVB] 千禧經典台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEWbMPuwATaYRZwlfKwALa2A/m3u8
+#EXTINF:-1 xui-id="1524" tvg-id="" tvg-name="[TVB] 半島電視台英語頻道" tvg-logo="" group-title="香港频道",[TVB] 半島電視台英語頻道
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEX34cYQjbrYhW9Ue55Ybakw/m3u8
+#EXTINF:-1 xui-id="1525" tvg-id="" tvg-name="[TVB] 天映經典頻道" tvg-logo="" group-title="香港频道",[TVB] 天映經典頻道
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEWE9OG3o7r964qdLC1Kvjgk/m3u8
+#EXTINF:-1 xui-id="1526" tvg-id="" tvg-name="[TVB] 娛樂新聞台" tvg-logo="" group-title="香港频道",[TVB] 娛樂新聞台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEYWsRUU-orjTBF-XckAdcrw/m3u8
+#EXTINF:-1 xui-id="1527" tvg-id="" tvg-name="[TVB] 戲曲台" tvg-logo="" group-title="香港频道",[TVB] 戲曲台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEX1y567jFymZVHpGkSIU39A/m3u8
+#EXTINF:-1 xui-id="1528" tvg-id="" tvg-name="[TVB] 明珠台" tvg-logo="" group-title="香港频道",[TVB] 明珠台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEaB7kpGhiGcTXBRZ_C_2lBw/m3u8
+#EXTINF:-1 xui-id="1529" tvg-id="" tvg-name="[TVB] 東方衛視國際頻道" tvg-logo="" group-title="香港频道",[TVB] 東方衛視國際頻道
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEQGiZiWtrjyWNEva2OR6kk0/m3u8
+#EXTINF:-1 xui-id="1530" tvg-id="" tvg-name="[TVB] 無線新聞台" tvg-logo="" group-title="香港频道",[TVB] 無線新聞台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEXdASEl7ghOmlCN62HpBCTg/m3u8
+#EXTINF:-1 xui-id="1531" tvg-id="" tvg-name="[TVB] 無線衛星亞洲台" tvg-logo="" group-title="香港频道",[TVB] 無線衛星亞洲台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEcTzX_r1Lg1FR2gdXoqiHYI/m3u8
+#EXTINF:-1 xui-id="1532" tvg-id="" tvg-name="[TVB] 無線衛星新聞台" tvg-logo="" group-title="香港频道",[TVB] 無線衛星新聞台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEWs2Ir3JcwNqKfp9A18_mQg/m3u8
+#EXTINF:-1 xui-id="1533" tvg-id="" tvg-name="[TVB] 神州新聞台" tvg-logo="" group-title="香港频道",[TVB] 神州新聞台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEYHuSaFwJA6j2jSbQgKK-qk/m3u8
+#EXTINF:-1 xui-id="1534" tvg-id="" tvg-name="[TVB] 粵語片台" tvg-logo="" group-title="香港频道",[TVB] 粵語片台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASETP_37VVWfAkI-K-Wev-IEg/m3u8
+#EXTINF:-1 xui-id="1535" tvg-id="" tvg-name="[TVB] 美亞電影台" tvg-logo="" group-title="香港频道",[TVB] 美亞電影台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEdJsLWLIJIPrLIL4iCVV480/m3u8
+#EXTINF:-1 xui-id="1536" tvg-id="" tvg-name="[TVB] 翡翠台" tvg-logo="" group-title="香港频道",[TVB] 翡翠台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEfY6fqQsMGKKbRO6bbXjg0k/m3u8
+#EXTINF:-1 xui-id="1537" tvg-id="" tvg-name="[TVB] 翡翠台 4K" tvg-logo="" group-title="香港频道",[TVB] 翡翠台 4K
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEVtQyxEMmfoMVtOtI2LCupw/m3u8
+#EXTINF:-1 xui-id="1538" tvg-id="" tvg-name="[TVB] 華語劇台" tvg-logo="" group-title="香港频道",[TVB] 華語劇台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEbYLqoLnTiOv2namU2ljT3g/m3u8
+#EXTINF:-1 xui-id="1539" tvg-id="" tvg-name="[TVB] 鳳凰衛視中文台" tvg-logo="" group-title="香港频道",[TVB] 鳳凰衛視中文台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEcPVyjs4MBLXsADwtXysM6s/m3u8
+#EXTINF:-1 xui-id="1540" tvg-id="" tvg-name="[TVB] 鳳凰衛視資訊台" tvg-logo="" group-title="香港频道",[TVB] 鳳凰衛視資訊台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEfHr1ZI2Ihd4Dn9N-R4p2zM/m3u8
+#EXTINF:-1 xui-id="1541" tvg-id="" tvg-name="[TVB] 鳳凰衛視香港台" tvg-logo="" group-title="香港频道",[TVB] 鳳凰衛視香港台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEbyDEuES-gcYbPnTTPvfjUE/m3u8
+#EXTINF:-1 xui-id="1542" tvg-id="" tvg-name="[TVB] 黃金翡翠台" tvg-logo="" group-title="香港频道",[TVB] 黃金翡翠台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASES2FKHMNR1yFJBaKLVVXJ0Y/m3u8
+#EXTINF:-1 xui-id="1543" tvg-id="" tvg-name="[TVB] 黃金華劇台" tvg-logo="" group-title="香港频道",[TVB] 黃金華劇台
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEfG06d19tjpaFFOrnRBBacw/m3u8
+#EXTINF:-1 xui-id="1544" tvg-id="" tvg-name="10/15 18:20 世亚预 第4轮 日本vs澳大利亚 熊冰杰" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2_A3issI3VpUeR45icWKqgs.png" group-title="奇艺「体育」",10/15 18:20 世亚预 第4轮 日本vs澳大利亚 熊冰杰
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEWpEl0Pf3hUu3I1i-jI5scg/m3u8
+#EXTINF:-1 xui-id="1545" tvg-id="" tvg-name="10/15 18:20 世亚预 第4轮 日本vs澳大利亚 English" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2_A3issI3VpUeR45icWKqgs.png" group-title="奇艺「体育」",10/15 18:20 世亚预 第4轮 日本vs澳大利亚 English
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEfrQEKC7fgvuxPFm6syvgbA/m3u8
+#EXTINF:-1 xui-id="1546" tvg-id="" tvg-name="10/15 18:45 世亚预 第4轮 韩国vs伊拉克 高季敏" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2_A3issI3VpUeR45icWKqgs.png" group-title="奇艺「体育」",10/15 18:45 世亚预 第4轮 韩国vs伊拉克 高季敏
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEaYheo3IjTcMcJ4Ql9N-oYU/m3u8
+#EXTINF:-1 xui-id="1547" tvg-id="" tvg-name="10/15 18:45 世亚预 第4轮 韩国vs伊拉克 English" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2_A3issI3VpUeR45icWKqgs.png" group-title="奇艺「体育」",10/15 18:45 世亚预 第4轮 韩国vs伊拉克 English
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASETUKH4FgcJ0B9k_vEDpjl3A/m3u8
+#EXTINF:-1 xui-id="1548" tvg-id="" tvg-name="10/15 19:40 世亚预 第4轮 中国vs印度尼西亚 于鑫淼" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2_A3issI3VpUeR45icWKqgs.png" group-title="奇艺「体育」",10/15 19:40 世亚预 第4轮 中国vs印度尼西亚 于鑫淼
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASES_vOJPRn9TXJB_ZqDvKWPg/m3u8
+#EXTINF:-1 xui-id="1549" tvg-id="" tvg-name="10/15 19:40 世亚预 第4轮 中国vs印度尼西亚 陈文森" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2_A3issI3VpUeR45icWKqgs.png" group-title="奇艺「体育」",10/15 19:40 世亚预 第4轮 中国vs印度尼西亚 陈文森
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEQNB2G6pl3aHIVeJ91ZQe3w/m3u8
+#EXTINF:-1 xui-id="1550" tvg-id="" tvg-name="10/15 19:40 世亚预 第4轮 中国vs印度尼西亚 English" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2_A3issI3VpUeR45icWKqgs.png" group-title="奇艺「体育」",10/15 19:40 世亚预 第4轮 中国vs印度尼西亚 English
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEaTYmytoGlVmF6PPZ8WXsOY/m3u8
+#EXTINF:-1 xui-id="1551" tvg-id="" tvg-name="10/15 21:55 世亚预 第4轮 乌兹别克斯坦vs阿联酋 肖天宇" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2_A3issI3VpUeR45icWKqgs.png" group-title="奇艺「体育」",10/15 21:55 世亚预 第4轮 乌兹别克斯坦vs阿联酋 肖天宇
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASESC_ZAQZlceSg1E31usv_9U/m3u8
+#EXTINF:-1 xui-id="1552" tvg-id="" tvg-name="10/15 21:55 世亚预 第4轮 乌兹别克斯坦vs阿联酋 English" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2_A3issI3VpUeR45icWKqgs.png" group-title="奇艺「体育」",10/15 21:55 世亚预 第4轮 乌兹别克斯坦vs阿联酋 English
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEYxq4g24ZXMgRtrxrHk7ux4/m3u8
+#EXTINF:-1 xui-id="1553" tvg-id="" tvg-name="10/15 21:55 世亚预 第4轮 吉尔吉斯斯坦vs朝鲜 朱一览" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2_A3issI3VpUeR45icWKqgs.png" group-title="奇艺「体育」",10/15 21:55 世亚预 第4轮 吉尔吉斯斯坦vs朝鲜 朱一览
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEQ9DdwouZlSHMNF1QlXyloM/m3u8
+#EXTINF:-1 xui-id="1554" tvg-id="" tvg-name="10/15 21:55 世亚预 第4轮 吉尔吉斯斯坦vs朝鲜 English" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2_A3issI3VpUeR45icWKqgs.png" group-title="奇艺「体育」",10/15 21:55 世亚预 第4轮 吉尔吉斯斯坦vs朝鲜 English
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEeZQ8yNSXHvu4Bx2_ndn2bA/m3u8
+#EXTINF:-1 xui-id="1555" tvg-id="" tvg-name="10/15 23:55 世亚预 第4轮 伊朗vs卡塔尔 赵海宸" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2_A3issI3VpUeR45icWKqgs.png" group-title="奇艺「体育」",10/15 23:55 世亚预 第4轮 伊朗vs卡塔尔 赵海宸
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEahOxMn3Ad7zDf99xdO8jzA/m3u8
+#EXTINF:-1 xui-id="1556" tvg-id="" tvg-name="10/15 23:55 世亚预 第4轮 伊朗vs卡塔尔 English" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2_A3issI3VpUeR45icWKqgs.png" group-title="奇艺「体育」",10/15 23:55 世亚预 第4轮 伊朗vs卡塔尔 English
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEfZQPb5TDysUkk-VFkrFsnw/m3u8
+#EXTINF:-1 xui-id="1557" tvg-id="" tvg-name="10/15 23:55 世亚预 第4轮 约旦vs阿曼 汤宪博" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2_A3issI3VpUeR45icWKqgs.png" group-title="奇艺「体育」",10/15 23:55 世亚预 第4轮 约旦vs阿曼 汤宪博
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEWfF21cbXLffRw0jbdgZhiQ/m3u8
+#EXTINF:-1 xui-id="1558" tvg-id="" tvg-name="10/15 23:55 世亚预 第4轮 约旦vs阿曼 English" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2_A3issI3VpUeR45icWKqgs.png" group-title="奇艺「体育」",10/15 23:55 世亚预 第4轮 约旦vs阿曼 English
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEXdb0fLRRp3RbdYzvVdu3kY/m3u8
+#EXTINF:-1 xui-id="1559" tvg-id="" tvg-name="10/15 23:55 世亚预 第4轮 巴勒斯坦vs科威特 熊广硕" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2_A3issI3VpUeR45icWKqgs.png" group-title="奇艺「体育」",10/15 23:55 世亚预 第4轮 巴勒斯坦vs科威特 熊广硕
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEVXgVSGPIUPsSjdoyvpwqZw/m3u8
+#EXTINF:-1 xui-id="1560" tvg-id="" tvg-name="10/15 23:55 世亚预 第4轮 巴勒斯坦vs科威特 English" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2_A3issI3VpUeR45icWKqgs.png" group-title="奇艺「体育」",10/15 23:55 世亚预 第4轮 巴勒斯坦vs科威特 English
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEXVW3N9KgRkF_cJq8DBSwL4/m3u8
+#EXTINF:-1 xui-id="1561" tvg-id="" tvg-name="10/16 01:55 世亚预 第4轮 沙特阿拉伯vs巴林 侯嘉晨" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2_A3issI3VpUeR45icWKqgs.png" group-title="奇艺「体育」",10/16 01:55 世亚预 第4轮 沙特阿拉伯vs巴林 侯嘉晨
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEaTgrnYt5YHJEtbt18OIEAg/m3u8
+#EXTINF:-1 xui-id="1562" tvg-id="" tvg-name="10/16 01:55 世亚预 第4轮 沙特阿拉伯vs巴林 English" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2_A3issI3VpUeR45icWKqgs.png" group-title="奇艺「体育」",10/16 01:55 世亚预 第4轮 沙特阿拉伯vs巴林 English
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEbIPaJEbdugxmrr9IXOeFCw/m3u8
+#EXTINF:-1 xui-id="1563" tvg-id="" tvg-name="10/16 02:30 欧国联 第4轮 苏格兰vs葡萄牙 李嘉伟" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2-MHCSGaRzjRfZk8Svo4J0Y.png" group-title="奇艺「体育」",10/16 02:30 欧国联 第4轮 苏格兰vs葡萄牙 李嘉伟
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEYIGg0vo3Yt5mlWELdBdgJg/m3u8
+#EXTINF:-1 xui-id="1564" tvg-id="" tvg-name="10/16 02:30 欧国联 第4轮 苏格兰vs葡萄牙 English" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2-MHCSGaRzjRfZk8Svo4J0Y.png" group-title="奇艺「体育」",10/16 02:30 欧国联 第4轮 苏格兰vs葡萄牙 English
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEXCUG2a6C7PQVE6TgO3UKEw/m3u8
+#EXTINF:-1 xui-id="1565" tvg-id="" tvg-name="10/16 02:30 欧国联 第4轮 波兰vs克罗地亚 赵海宸" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2-MHCSGaRzjRfZk8Svo4J0Y.png" group-title="奇艺「体育」",10/16 02:30 欧国联 第4轮 波兰vs克罗地亚 赵海宸
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEcHOyT_TFX9eiFvSJS9UuQU/m3u8
+#EXTINF:-1 xui-id="1566" tvg-id="" tvg-name="10/16 02:30 欧国联 第4轮 波兰vs克罗地亚 English" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2-MHCSGaRzjRfZk8Svo4J0Y.png" group-title="奇艺「体育」",10/16 02:30 欧国联 第4轮 波兰vs克罗地亚 English
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEa3C_AmQRmzQDgS1A_zbKsk/m3u8
+#EXTINF:-1 xui-id="1567" tvg-id="" tvg-name="10/16 02:30 欧国联 第4轮 西班牙vs塞尔维亚 刘勇" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2-MHCSGaRzjRfZk8Svo4J0Y.png" group-title="奇艺「体育」",10/16 02:30 欧国联 第4轮 西班牙vs塞尔维亚 刘勇
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEfLVFNdKq2Y7UsX9Y8FoSCU/m3u8
+#EXTINF:-1 xui-id="1568" tvg-id="" tvg-name="10/16 02:30 欧国联 第4轮 西班牙vs塞尔维亚 English" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2-MHCSGaRzjRfZk8Svo4J0Y.png" group-title="奇艺「体育」",10/16 02:30 欧国联 第4轮 西班牙vs塞尔维亚 English
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEXxe0FmgpFTZ4JhPLnRPZ14/m3u8
+#EXTINF:-1 xui-id="1569" tvg-id="" tvg-name="10/16 02:45 欧国联 第4轮 科索沃vs塞浦路斯 English commentary" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2-MHCSGaRzjRfZk8Svo4J0Y.png" group-title="奇艺「体育」",10/16 02:45 欧国联 第4轮 科索沃vs塞浦路斯 English commentary
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEW13JxmGvVRoGBmenFXIrVk/m3u8
+#EXTINF:-1 xui-id="1570" tvg-id="" tvg-name="10/16 02:45 欧国联 第4轮 北爱尔兰vs保加利亚 English commentary" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2-MHCSGaRzjRfZk8Svo4J0Y.png" group-title="奇艺「体育」",10/16 02:45 欧国联 第4轮 北爱尔兰vs保加利亚 English commentary
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASESdSby11nE6nfKFvo0sHso0/m3u8
+#EXTINF:-1 xui-id="1571" tvg-id="" tvg-name="10/16 02:45 欧国联 第4轮 立陶宛vs罗马尼亚 张克坚" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2-MHCSGaRzjRfZk8Svo4J0Y.png" group-title="奇艺「体育」",10/16 02:45 欧国联 第4轮 立陶宛vs罗马尼亚 张克坚
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEZhDzy5H_Jysiw9YMXYJPX8/m3u8
+#EXTINF:-1 xui-id="1572" tvg-id="" tvg-name="10/16 02:45 欧国联 第4轮 立陶宛vs罗马尼亚 English" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2-MHCSGaRzjRfZk8Svo4J0Y.png" group-title="奇艺「体育」",10/16 02:45 欧国联 第4轮 立陶宛vs罗马尼亚 English
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEfNWRfPakLswJFUNHgZurt8/m3u8
+#EXTINF:-1 xui-id="1573" tvg-id="" tvg-name="10/16 02:45 欧国联 第4轮 瑞士vs丹麦 秦晋" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2-MHCSGaRzjRfZk8Svo4J0Y.png" group-title="奇艺「体育」",10/16 02:45 欧国联 第4轮 瑞士vs丹麦 秦晋
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEW1RXCSnLCXh6roxdxHRe44/m3u8
+#EXTINF:-1 xui-id="1574" tvg-id="" tvg-name="10/16 02:45 欧国联 第4轮 瑞士vs丹麦 English" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2-MHCSGaRzjRfZk8Svo4J0Y.png" group-title="奇艺「体育」",10/16 02:45 欧国联 第4轮 瑞士vs丹麦 English
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEXMlR7rXT_M9NTlEm6GszL8/m3u8
+#EXTINF:-1 xui-id="1575" tvg-id="" tvg-name="10/16 02:45 欧国联 第4轮 白俄罗斯vs卢森堡 English commentary" tvg-logo="http://cnfs.204999.xyz:30080/images/1fszp8a5fSvMpy8DGy8EY6JqvkLdk5u8JkdkqTKcV2-MHCSGaRzjRfZk8Svo4J0Y.png" group-title="奇艺「体育」",10/16 02:45 欧国联 第4轮 白俄罗斯vs卢森堡 English commentary
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASESqBcv8KQ_HhR8PvhYeM_Kk/m3u8
+#EXTINF:-1 xui-id="2" tvg-id="" tvg-name="劲爆体育" tvg-logo="" group-title="广东省",劲爆体育
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEQdw9rrM4e2BFNd_0P4nmvQ/m3u8
+#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="广东卫视" tvg-logo="" group-title="广东省",广东卫视
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASERHfBEqpMaXHjmeslW2vr9o/m3u8
+#EXTINF:-1 xui-id="3" tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="广东省",广东体育
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEfwtS-6FryHQgIqf4B2nHYM/m3u8
+#EXTINF:-1 xui-id="5" tvg-id="" tvg-name="五星体育" tvg-logo="" group-title="广东省",五星体育
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASERCKFXXyiJE5Ub0l_9Iwlkg/m3u8
+#EXTINF:-1 xui-id="6" tvg-id="" tvg-name="北京体育" tvg-logo="" group-title="北京市",北京体育
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEb-gIIHdBakV7CoyS-WB1Hk/m3u8
+#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="北京文艺" tvg-logo="" group-title="北京市",北京文艺
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEc0VpMaqgcJclbK3hbnLyxc/m3u8
+#EXTINF:-1 xui-id="8" tvg-id="" tvg-name="星空卫视" tvg-logo="" group-title="北京市",星空卫视
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEaxYC5pAoOXx83tk2KJ5lDg/m3u8
+#EXTINF:-1 xui-id="14" tvg-id="" tvg-name="咪咕足球" tvg-logo="" group-title="北京市",咪咕足球
+http://cnfs.204999.xyz:30080/play/tA_Vr4K2L4a1d3nnClASEfpyVUDVWEBKslCNuLaQs1U/m3u8
